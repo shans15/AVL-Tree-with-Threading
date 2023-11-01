@@ -1,5 +1,7 @@
 # AVL-Tree-with-Threading
 Author - Sarthak Hans
+
+## Description
 This project implements an AVL tree with threading, providing efficient access to the in-order successor of each node.
 
 ## Files
